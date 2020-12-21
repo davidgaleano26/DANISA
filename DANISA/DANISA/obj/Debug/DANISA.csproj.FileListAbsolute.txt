@@ -1,0 +1,84 @@
+C:\Users\David Galeano\source\repos\DANISA\DANISA\bin\Debug\DANISA.exe.config
+C:\Users\David Galeano\source\repos\DANISA\DANISA\bin\Debug\DANISA.exe
+C:\Users\David Galeano\source\repos\DANISA\DANISA\bin\Debug\DANISA.pdb
+C:\Users\David Galeano\source\repos\DANISA\DANISA\obj\Debug\DANISA.csprojAssemblyReference.cache
+C:\Users\David Galeano\source\repos\DANISA\DANISA\obj\Debug\DANISA.Inicio.resources
+C:\Users\David Galeano\source\repos\DANISA\DANISA\obj\Debug\DANISA.Marcas.resources
+C:\Users\David Galeano\source\repos\DANISA\DANISA\obj\Debug\DANISA.Properties.Resources.resources
+C:\Users\David Galeano\source\repos\DANISA\DANISA\obj\Debug\DANISA.csproj.GenerateResource.cache
+C:\Users\David Galeano\source\repos\DANISA\DANISA\obj\Debug\DANISA.csproj.CoreCompileInputs.cache
+C:\Users\David Galeano\source\repos\DANISA\DANISA\obj\Debug\DANISA.exe
+C:\Users\David Galeano\source\repos\DANISA\DANISA\obj\Debug\DANISA.pdb
+C:\Users\David Galeano\source\repos\DANISA\DANISA\obj\Debug\DANISA.VistaPrevia.resources
+C:\Users\David Galeano\source\repos\DANISA\DANISA\obj\Debug\DANISA.VistaFinal.resources
+C:\Users\David Galeano\source\repos\DANISA\DANISA\obj\Debug\DANISA.Principal.resources
+C:\Users\David Galeano\source\repos\DANISA\DANISA\obj\Debug\DANISA.AdminUser.resources
+C:\Users\David Galeano\source\repos\DANISA\DANISA\obj\Debug\DANISA.Administrador_login.resources
+C:\Users\David Galeano\source\repos\DANISA\DANISA\obj\Debug\DANISA.Q5.resources
+C:\Users\David Galeano\source\repos\DANISA\DANISA\obj\Debug\DANISA.EXPLORER.resources
+C:\Users\David Galeano\source\repos\DANISA\DANISA\obj\Debug\DANISA.CAMARO.resources
+C:\Users\David Galeano\source\repos\DANISA\DANISA\bin\Debug\DANISA.exe.manifest
+C:\Users\David Galeano\source\repos\DANISA\DANISA\bin\Debug\DANISA.application
+C:\Users\David Galeano\source\repos\DANISA\DANISA\obj\Debug\DANISA.exe.manifest
+C:\Users\David Galeano\source\repos\DANISA\DANISA\obj\Debug\DANISA.application
+D:\VISUAL STUDIO (2019)\DANISA\DANISA\bin\Debug\DANISA.exe.config
+D:\VISUAL STUDIO (2019)\DANISA\DANISA\bin\Debug\DANISA.exe.manifest
+D:\VISUAL STUDIO (2019)\DANISA\DANISA\bin\Debug\DANISA.application
+D:\VISUAL STUDIO (2019)\DANISA\DANISA\bin\Debug\DANISA.exe
+D:\VISUAL STUDIO (2019)\DANISA\DANISA\bin\Debug\DANISA.pdb
+D:\VISUAL STUDIO (2019)\DANISA\DANISA\obj\Debug\DANISA.csprojAssemblyReference.cache
+D:\VISUAL STUDIO (2019)\DANISA\DANISA\obj\Debug\DANISA.Administrador_login.resources
+D:\VISUAL STUDIO (2019)\DANISA\DANISA\obj\Debug\DANISA.AdminUser.resources
+D:\VISUAL STUDIO (2019)\DANISA\DANISA\obj\Debug\DANISA.CAMARO.resources
+D:\VISUAL STUDIO (2019)\DANISA\DANISA\obj\Debug\DANISA.EXPLORER.resources
+D:\VISUAL STUDIO (2019)\DANISA\DANISA\obj\Debug\DANISA.Inicio.resources
+D:\VISUAL STUDIO (2019)\DANISA\DANISA\obj\Debug\DANISA.Marcas.resources
+D:\VISUAL STUDIO (2019)\DANISA\DANISA\obj\Debug\DANISA.Principal.resources
+D:\VISUAL STUDIO (2019)\DANISA\DANISA\obj\Debug\DANISA.Properties.Resources.resources
+D:\VISUAL STUDIO (2019)\DANISA\DANISA\obj\Debug\DANISA.Q5.resources
+D:\VISUAL STUDIO (2019)\DANISA\DANISA\obj\Debug\DANISA.VistaFinal.resources
+D:\VISUAL STUDIO (2019)\DANISA\DANISA\obj\Debug\DANISA.VistaPrevia.resources
+D:\VISUAL STUDIO (2019)\DANISA\DANISA\obj\Debug\DANISA.csproj.GenerateResource.cache
+D:\VISUAL STUDIO (2019)\DANISA\DANISA\obj\Debug\DANISA.exe.manifest
+D:\VISUAL STUDIO (2019)\DANISA\DANISA\obj\Debug\DANISA.application
+D:\VISUAL STUDIO (2019)\DANISA\DANISA\obj\Debug\DANISA.exe
+D:\VISUAL STUDIO (2019)\DANISA\DANISA\obj\Debug\DANISA.pdb
+E:\VISUAL STUDIO (2019)\DANISA\DANISA\bin\Debug\DANISA.exe.config
+E:\VISUAL STUDIO (2019)\DANISA\DANISA\bin\Debug\DANISA.exe.manifest
+E:\VISUAL STUDIO (2019)\DANISA\DANISA\bin\Debug\DANISA.application
+E:\VISUAL STUDIO (2019)\DANISA\DANISA\bin\Debug\DANISA.exe
+E:\VISUAL STUDIO (2019)\DANISA\DANISA\bin\Debug\DANISA.pdb
+E:\VISUAL STUDIO (2019)\DANISA\DANISA\obj\Debug\DANISA.csprojAssemblyReference.cache
+E:\VISUAL STUDIO (2019)\DANISA\DANISA\obj\Debug\DANISA.Administrador_login.resources
+E:\VISUAL STUDIO (2019)\DANISA\DANISA\obj\Debug\DANISA.AdminUser.resources
+E:\VISUAL STUDIO (2019)\DANISA\DANISA\obj\Debug\DANISA.CAMARO.resources
+E:\VISUAL STUDIO (2019)\DANISA\DANISA\obj\Debug\DANISA.EXPLORER.resources
+E:\VISUAL STUDIO (2019)\DANISA\DANISA\obj\Debug\DANISA.Inicio.resources
+E:\VISUAL STUDIO (2019)\DANISA\DANISA\obj\Debug\DANISA.Marcas.resources
+E:\VISUAL STUDIO (2019)\DANISA\DANISA\obj\Debug\DANISA.Principal.resources
+E:\VISUAL STUDIO (2019)\DANISA\DANISA\obj\Debug\DANISA.Properties.Resources.resources
+E:\VISUAL STUDIO (2019)\DANISA\DANISA\obj\Debug\DANISA.Q5.resources
+E:\VISUAL STUDIO (2019)\DANISA\DANISA\obj\Debug\DANISA.VistaFinal.resources
+E:\VISUAL STUDIO (2019)\DANISA\DANISA\obj\Debug\DANISA.VistaPrevia.resources
+E:\VISUAL STUDIO (2019)\DANISA\DANISA\obj\Debug\DANISA.csproj.GenerateResource.cache
+E:\VISUAL STUDIO (2019)\DANISA\DANISA\obj\Debug\DANISA.exe.manifest
+E:\VISUAL STUDIO (2019)\DANISA\DANISA\obj\Debug\DANISA.application
+E:\VISUAL STUDIO (2019)\DANISA\DANISA\obj\Debug\DANISA.exe
+E:\VISUAL STUDIO (2019)\DANISA\DANISA\obj\Debug\DANISA.pdb
+E:\VISUAL STUDIO (2019)\DANISA\DANISA\obj\Debug\DANISA.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Danisa_2.0\DANISA\DANISA\obj\Debug\DANISA.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Danisa_2.0\DANISA\DANISA\obj\Debug\DANISA.Administrador_login.resources
+C:\Users\User\Desktop\Danisa_2.0\DANISA\DANISA\obj\Debug\DANISA.AdminUser.resources
+C:\Users\User\Desktop\Danisa_2.0\DANISA\DANISA\obj\Debug\DANISA.CAMARO.resources
+C:\Users\User\Desktop\Danisa_2.0\DANISA\DANISA\obj\Debug\DANISA.EXPLORER.resources
+C:\Users\User\Desktop\Danisa_2.0\DANISA\DANISA\obj\Debug\DANISA.Inicio.resources
+C:\Users\User\Desktop\Danisa_2.0\DANISA\DANISA\obj\Debug\DANISA.Marcas.resources
+C:\Users\User\Desktop\Danisa_2.0\DANISA\DANISA\obj\Debug\DANISA.Principal.resources
+C:\Users\User\Desktop\Danisa_2.0\DANISA\DANISA\obj\Debug\DANISA.Properties.Resources.resources
+C:\Users\User\Desktop\Danisa_2.0\DANISA\DANISA\obj\Debug\DANISA.Q5.resources
+C:\Users\User\Desktop\Danisa_2.0\DANISA\DANISA\obj\Debug\DANISA.VistaFinal.resources
+C:\Users\User\Desktop\Danisa_2.0\DANISA\DANISA\obj\Debug\DANISA.VistaPrevia.resources
+C:\Users\User\Desktop\Danisa_2.0\DANISA\DANISA\obj\Debug\DANISA.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Danisa_2.0\DANISA\DANISA\obj\Debug\DANISA.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Danisa_2.0\DANISA\DANISA\obj\Debug\DANISA.exe
+C:\Users\User\Desktop\Danisa_2.0\DANISA\DANISA\obj\Debug\DANISA.pdb
